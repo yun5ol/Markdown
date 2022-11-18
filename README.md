@@ -89,9 +89,3 @@ HTML과 리치텍스트 (RTF) 등 서식 문서로 쉽게 변환되므로, 응�
 
 ❤🥙👍🦝⚽🎉  
   
-### 2.9 배지 (Badge) 
-```
-   [Simple Icons](https://simpleicons.org, "Simple Icons link") copy  
-   #40AEF0  #F7DF1E  #E4405F  
-```  
-
