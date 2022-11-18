@@ -23,18 +23,18 @@ HTML과 리치텍스트 (RTF) 등 서식 문서로 쉽게 변환되므로, 응�
 ``` 
 ### 목록 (Lisdts)
 ```
-Unordered 
-* Item 1 
-* Item 2 
-    * Item 2a 
-    * Item 2b 
+   Unordered 
+   * Item 1 
+   * Item 2 
+       * Item 2a 
+       * Item 2b 
 
-Ordered 
-1. Item 1 
-1. Item 2 
-1. Item 3 
-    1. Item 3a 
-    1. Item 3b
+   Ordered 
+   1. Item 1 
+   1. Item 2 
+   1. Item 3 
+       1. Item 3a 
+       1. Item 3b
 ```    
 ### 강조 (Emphasis)
 ``` 
@@ -49,22 +49,22 @@ __This will also be bold__
 ### 인용문 (BlockQuote)
 ```
 ```
-### 인용문 (BlockQuote)
+### 표 (Tables)
 ```
 ```
-### 인용문 (BlockQuote)
+### 체크박스 (Task Lists)
 ```
 ```
-### 인용문 (BlockQuote)
+### 인라인코드 (Inline code)
 ```
 ```
-### 인용문 (BlockQuote)
+### 수평선 (hr)
 ```
 ```
-### 인용문 (BlockQuote)
+### 이모지 (Emoji)
 ```
 ```
-### 인용문 (BlockQuote)
+### 배지 (Badge)
 ```
 ```
 ### 인용문 (BlockQuote)
