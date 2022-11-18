@@ -1,7 +1,7 @@
-# 🔲 Markdown
+# 💫 Markdown
 ![Markdown-mark svg](https://user-images.githubusercontent.com/118426836/202700027-0e732f94-45b9-421d-a803-81bbf4a96cd9.png)
 
-## 목차
+## ✔목차
  1. 개요
  2. 문법 (Syntex)  
   
