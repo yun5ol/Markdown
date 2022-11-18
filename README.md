@@ -20,46 +20,59 @@ HTML과 리치텍스트 (RTF) 등 서식 문서로 쉽게 변환되므로, 응�
    #### This is a H4
    ##### This is a H5
    ###### This is a H6
-``` 
+```  
+![결과](https://user-images.githubusercontent.com/118426836/202711021-ea05e2ff-7c35-4eee-a968-92cadeb27ea8.png)
+
 ### 목록 (Lisdts)
 ```
-   Unordered 
+   List A
    * Item 1 
    * Item 2 
-       * Item 2a 
-       * Item 2b 
 
-   Ordered 
+   List B 
    1. Item 1 
    1. Item 2 
    1. Item 3 
-       1. Item 3a 
-       1. Item 3b
 ```    
 ### 강조 (Emphasis)
 ``` 
-*This text will be italic* 
-_This will also be italic_ 
+   *italic lettering*  
+   _also italic lettering_  
 
-**This text will be bold** 
-__This will also be bold__ 
-
-*You **can** combine them*
+   **bold lettering**   
+   __also bold lettering__  
+   
+   <u>underlined lettering</u>  
+   
+   <strike>lettering with strikethrough</strike>  
 ```
 ### 인용문 (BlockQuote)
 ```
+   하이픈 Hyphens
+   ---
+   별표 Asterisks 
+   ***
+   밑줄 Underscores  
+   ___
 ```
 ### 표 (Tables)
 ```
+   | Title1(기본왼쪽정렬) | Title2(가운데정렬) | Title3(오른쪽정렬) |
+   |---|:---:|---:|
+   | `111` | 가나다라 | abc |
+   | `222` | 가나다라마바사아 | abcdefgh |
+   | `333` | 가나다라마바사아자차카타파하 | abcdef |
+   | `444` | 가나다라마바사아자차 | abc |
 ```
-### 체크박스 (Task Lists)
+### 체크 박스 (Task Lists)
 ```
 ```
-### 인라인코드 (Inline code)
+### 인라인 코드 (Inline code)
 ```
 ```
-### 수평선 (hr)
+### 수평선 (Horizontal Rule)
 ```
+
 ```
 ### 이모지 (Emoji)
 ```
@@ -67,6 +80,6 @@ __This will also be bold__
 ### 배지 (Badge)
 ```
 ```
-### 인용문 (BlockQuote)
+### 줄바꿈 (Line Breaks)
 ```
 ```
