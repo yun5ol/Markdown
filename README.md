@@ -89,8 +89,6 @@ HTML과 리치텍스트 (RTF) 등 서식 문서로 쉽게 변환되므로, 응�
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
 ```
 
-![image](notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe36a54e7-a293-4206-9144-5dd3411b30b3%2FUntitled.png?table=block&id=c7a913ee-5445-45dd-b497-948e336a7b23&spaceId=3f9b23b9-da50-4ff9-b2a5-b25fb9e45b3f&width=2000&userId=504617bf-7a3e-47c3-b467-774d2836cfa1&cache=v2)
-
 
 💡 아이콘: <https://simpleicons.org/>
 
