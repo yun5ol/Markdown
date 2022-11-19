@@ -83,9 +83,25 @@ HTML과 리치텍스트 (RTF) 등 서식 문서로 쉽게 변환되므로, 응�
 ```
 ![Markdown-mark svg](https://user-images.githubusercontent.com/118426836/202719142-e28c3e69-c611-442d-9da2-c7c37ddfa34c.png)  
   
-### 2.8 이모지 (Emoji)
-+ MacOS 는 ctrl + cmd + sapce bar
-+ Windows 는 window key + . 또는 + 세미콜론
+### 2.8 뱃지 (Badge) 와 링크 추가
 
-❤🥙👍🦝⚽🎉  
+```markdown
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
+```
+
+![image](notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe36a54e7-a293-4206-9144-5dd3411b30b3%2FUntitled.png?table=block&id=c7a913ee-5445-45dd-b497-948e336a7b23&spaceId=3f9b23b9-da50-4ff9-b2a5-b25fb9e45b3f&width=2000&userId=504617bf-7a3e-47c3-b467-774d2836cfa1&cache=v2)
+
+
+💡 아이콘: <https://simpleicons.org/>
+
+
+- 위 사이트에서 원하는 아이콘의 색상코드를 복사하여 ‘#’ 제외하고 입력
+
+
+💡 뱃지에 링크 추가
+
+
+```markdown
+[<뱃지 추가 명령어>](URL)
+```
   
